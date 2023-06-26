@@ -1,6 +1,6 @@
 name: CI
 on:
-#   workflow_dispatch:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -22,23 +22,23 @@ jobs:
           filter-author: (renovate\[bot\]|renovate-bot|@github-actions-bot|dependabot\[bot\])
           avatarSize: 42
 
-      - name: Modify README.md
-        uses: jaywcjlove/github-action-modify-file-content@main
-        with:
-          path: README.md
-          openDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-->'
-          closeDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->'
-          body: |
-            ${{steps.contributors.outputs.htmlList}}
+#       - name: Modify README.md
+#         uses: jaywcjlove/github-action-modify-file-content@main
+#         with:
+#           path: README.md
+#           openDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-->'
+#           closeDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->'
+#           body: |
+#             ${{steps.contributors.outputs.htmlList}}
 
-      - name: Modify contributors.ejs
-        uses: jaywcjlove/github-action-modify-file-content@main
-        with:
-          path: template/contributors.ejs
-          openDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-->'
-          closeDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->'
-          body: |
-            ${{steps.contributors.outputs.htmlList}}
+#       - name: Modify contributors.ejs
+#         uses: jaywcjlove/github-action-modify-file-content@main
+#         with:
+#           path: template/contributors.ejs
+#           openDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-->'
+#           closeDelimiter: '<!--AUTO_GENERATED_PLEASE_DONT_DELETE_IT-END-->'
+#           body: |
+#             ${{steps.contributors.outputs.htmlList}}
 
       - run: npm install
       - run: npm run dash
