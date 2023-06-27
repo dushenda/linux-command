@@ -1,6 +1,6 @@
 {
   "name": "linux-command",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Linux Command",
   "homepage": "https://dushenda.github.io/linux-command/",
   "main": "dist/data.json",
