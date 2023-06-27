@@ -376,6 +376,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/renovate-bot" title="Mend Renovate">
   <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="42;" alt="Mend Renovate"/>
 </a>
+<a href="https://github.com/dushenda" title="dushenda">
+  <img src="https://avatars.githubusercontent.com/u/33838754?v=4" width="42;" alt="dushenda"/>
+</a>
 <a href="https://github.com/huckhuang" title="Huck Huang">
   <img src="https://avatars.githubusercontent.com/u/23023193?v=4" width="42;" alt="Huck Huang"/>
 </a>
@@ -384,9 +387,6 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 </a>
 <a href="https://github.com/le-shi" title="L">
   <img src="https://avatars.githubusercontent.com/u/22446162?v=4" width="42;" alt="L"/>
-</a>
-<a href="https://github.com/dushenda" title="dushenda">
-  <img src="https://avatars.githubusercontent.com/u/33838754?v=4" width="42;" alt="dushenda"/>
 </a>
 <a href="https://github.com/clay-wangzhi" title="clay-wangzhi">
   <img src="https://avatars.githubusercontent.com/u/34151437?v=4" width="42;" alt="clay-wangzhi"/>
