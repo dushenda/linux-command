@@ -373,14 +373,14 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/ZhuangZhu-74" title="ZhuangZhu-74">
   <img src="https://avatars.githubusercontent.com/u/49544524?v=4" width="42;" alt="ZhuangZhu-74"/>
 </a>
+<a href="https://github.com/dushenda" title="dushenda">
+  <img src="https://avatars.githubusercontent.com/u/33838754?v=4" width="42;" alt="dushenda"/>
+</a>
 <a href="https://github.com/renovate-bot" title="Mend Renovate">
   <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="42;" alt="Mend Renovate"/>
 </a>
 <a href="https://github.com/huckhuang" title="Huck Huang">
   <img src="https://avatars.githubusercontent.com/u/23023193?v=4" width="42;" alt="Huck Huang"/>
-</a>
-<a href="https://github.com/dushenda" title="dushenda">
-  <img src="https://avatars.githubusercontent.com/u/33838754?v=4" width="42;" alt="dushenda"/>
 </a>
 <a href="https://github.com/lutixiaya" title="lutixiaya">
   <img src="https://avatars.githubusercontent.com/u/48750425?v=4" width="42;" alt="lutixiaya"/>
@@ -706,8 +706,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<å‘½ä»
 <a href="https://github.com/snovey" title="snovey">
   <img src="https://avatars.githubusercontent.com/u/15171147?v=4" width="42;" alt="snovey"/>
 </a>
-<a href="https://github.com/sunls24" title="sunls24">
-  <img src="https://avatars.githubusercontent.com/u/57647932?v=4" width="42;" alt="sunls24"/>
+<a href="https://github.com/sunls233" title="sunls25">
+  <img src="https://avatars.githubusercontent.com/u/57647932?v=4" width="42;" alt="sunls25"/>
 </a>
 <a href="https://github.com/hunantangke" title="tangke">
   <img src="https://avatars.githubusercontent.com/u/22476435?v=4" width="42;" alt="tangke"/>
